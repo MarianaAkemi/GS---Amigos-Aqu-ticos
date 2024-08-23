@@ -2,6 +2,7 @@
 ###
 
 <div align = center>
+Disponível para gameplay <a href="https://akemi-vek.itch.io/amigos-aquaticos">aqui</a> !<br><br>
 Amigos Aquaticos foi um jogo produzido em 7 dias para a Global Solution, um projeto da FIAP que visava a concientização de maneira lúdica dos desafios ambientais crescentes.
 
 
